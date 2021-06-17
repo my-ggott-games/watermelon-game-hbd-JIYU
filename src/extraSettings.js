@@ -35,7 +35,7 @@ let fruitSlowDown = false;
 let clickChangeFruit = true;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
-let adLink = 'https://www.twitch.tv/jiyu0202';
+let adLink = 'https://www.twitch.tv/meang_e2';
 
 // 修改网页标题：将 "Happy Jiyu Day" 进行替换
 document.getElementsByTagName("title")[0].innerText = '지유 생일축하해';
